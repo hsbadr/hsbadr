@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hamada S. Badr
+
+[![Webpage](https://img.shields.io/badge/Webpage-pages.jh.edu/~hbadr1-blue?style=flat-square&logo=Hey&logoColor=white&link=https://pages.jh.edu/~hbadr1)](https://pages.jh.edu/~hbadr1)
+[![GitHub](https://img.shields.io/badge/GitHub-hsbadr-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hsbadr)](https://github.com/hsbadr)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-hsbadr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hsbadr)](https://www.linkedin.com/in/hsbadr)
+[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--9808--2344-blue?style=flat-square&logo=ORCiD&logoColor=white&link=https://orcid.org/0000-0002-9808-2344)](https://orcid.org/0000-0002-9808-2344)
+[![Scholar](https://img.shields.io/badge/Scholar-Hamada%20S.%20Badr-blue?style=flat-square&logo=Google&logoColor=white&link=https://scholar.google.com/citations?user=ZVmbOxAAAAAJ)](https://scholar.google.com/citations?user=ZVmbOxAAAAAJ)
+
+Today, there are many skilled and talented research scientists working across industry and applying their abilities to solve problems of their field. It is rare, however, to find a data scientist who dynamically combines multiple disciplines (interdisciplinary research), innovative ideas and software approaches to solve complex real-world problems using (big) data analytics and numerical simulations. I am a data scientist with broad and in-depth skills and over 20 years of experience in statistical analysis, numerical modeling of physical processes, data visualization, and software development as well as project management and leadership. I am a software-independent developer as I can easily and quickly switch between different platforms and master newer solutions. I am trained first in aerospace engineering and earth sciences, and have developed my skills in programming, mathematics, statistics, and physics to address grand challenges in aerodynamics, hydroclimatology, and global health.
 
 <!--
 **hsbadr/hsbadr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
