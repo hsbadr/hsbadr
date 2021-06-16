@@ -15,6 +15,6 @@ Today, there are many skilled and talented research scientists working across in
 ---
 <center>
 
-[![hsbadr's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsbadr&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=hsbadr&count_private=true&show_icons=true)
+[![hsbadr's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsbadr&count_private=true&show_icons=true&theme=graywhite)](https://github-readme-stats.vercel.app/api?username=hsbadr&count_private=true&show_icons=true&theme=graywhite)
 
 </center>
