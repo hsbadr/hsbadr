@@ -1,5 +1,3 @@
-# Hamada S. Badr
-
 [![Website](https://img.shields.io/badge/Website-hsbadr.github.io-blue?style=flat-square&logo=Google%20Earth&logoColor=white&link=https://hsbadr.github.io)](https://hsbadr.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-hsbadr-blue?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hsbadr)](https://github.com/hsbadr)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-hsbadr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hsbadr)](https://www.linkedin.com/in/hsbadr)
